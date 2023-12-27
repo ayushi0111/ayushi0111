@@ -74,6 +74,13 @@
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/ayushi0111)
 [![Lucidchart](https://img.shields.io/badge/Lucidchart-%23117AC9.svg?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://github.com/ayushi0111)
 
+---
+<details>
+  <summary>Trophies</summary>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&no-bg=true&no-frame=true&column=4&theme=black">
+  </div>
+</details>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi0111&show_icons=true&locale=en&layout=compact" alt="ayushi0111" />
     <img src="https://github-readme-stats.vercel.app/api?username=ayushi0111&show_icons=true&locale=en" alt="ayushi0111" />
