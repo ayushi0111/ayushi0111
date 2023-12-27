@@ -53,10 +53,6 @@
 ---
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/ayushi0111)
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://github.com/ayushi0111)
-[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://github.com/ayushi0111)
-[![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)](https://github.com/ayushi0111)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ayushi0111)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/ayushi0111)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/ayushi0111)
@@ -70,6 +66,13 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/ayushi0111)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/ayushi0111)
+
+---
+
+### Design & Collaboration Tools
+[![Overleaf](https://img.shields.io/badge/Overleaf-%234984A1.svg?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/ayushi0111)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/ayushi0111)
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-%23117AC9.svg?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://github.com/ayushi0111)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi0111&show_icons=true&locale=en&layout=compact" alt="ayushi0111" />
