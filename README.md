@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on being a better version MYSELF
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Projects 
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ERROR 404 Bugs not found
 -->
 
