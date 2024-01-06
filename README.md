@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi0111&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi0111" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.dreamhost.com/blog/wp-content/uploads/2020/03/women-in-tech-featured-750x498.jpeg">
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Flutter, Figma**
+- 💬 Ask me about **HTML, CSS, Figma**
 
-- 📫 How to reach me **ayushiagarwal0111@gmail.com**
+- 📫 How to reach me **ayushi.agarwal2025@gmail.com**
 
 ### About
 - 🔭 I’m currently working on being a better version MYSELF
