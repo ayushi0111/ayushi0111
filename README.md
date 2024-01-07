@@ -12,7 +12,7 @@
 - 📫 How to reach me **ayushi.agarwal2025@gmail.com**
 
 ### About
-- 🔭 I’m currently working on being a better version MYSELF
+- 🔭 I’m currently working on being a better version of MYSELF
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Projects 
 - 😄 Pronouns: She/Her
